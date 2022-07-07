@@ -9,6 +9,8 @@ const User = () => {
             <h3>fffff</h3>
             <p>5555555555</p>
             <p>Lorem ipsum dolor.</p>
+            <p>Lorem ipsum dolor.</p>
+            <p>Lorem ipsum dolor.</p>
         </div>
     );
 };
